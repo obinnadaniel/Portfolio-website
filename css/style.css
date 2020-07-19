@@ -1,0 +1,77 @@
+body{
+    overflow-x: hidden;
+}
+.header{
+    background-image: url("../img/lap.jpg");
+    background-size: cover;
+    height: 100vh;
+  }
+  h4{
+    color: #fff;
+  }
+.profile-img{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 10.75rem;
+}
+.mt-15{
+    padding-top: 150px;
+}
+#title>span{
+    font-size: 1.5rem;
+    padding: 1rem;
+    color: #fff;
+    border-bottom: 10px dotted #fff;
+}
+.ate {
+    background-color: #e0e0e0;
+    background-size: cover;
+    text-align: center;
+    padding: 0.5px;
+    color: black;
+  }
+  .card{
+    background-image: url("../img/plain.jpg");
+    background-size: cover;
+  }
+  div.card-header > img{
+    background-color: #e0e0e0;
+    height: 10rem;
+  }
+  .sim {
+    background-color: #e0e0e0;
+    background-size: cover;
+    text-align: center;
+    padding: 0.5px;
+    color: black;
+  }
+  .alien{
+    border-radius: 4.75rem;
+    padding: 2.5rem;
+    height: 25rem;
+  }
+  .image{
+    height: 100vh;
+  }
+  .mark{
+    height: 100vh;
+  }
+  .dof{
+    background-color: #e0e0e0;
+    background-size: cover;
+  }
+  .xyz{
+  background-color: #e0e0e0;
+  background-size: cover;
+}
+.cmc{
+  background-color: #e0e0e0;
+  background-size: cover;
+}
+.cole {
+  border-radius: 11px;
+  height: 12rem;
+  width: 52rem;
+}
